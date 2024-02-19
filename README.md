@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&fontAlign=57&color=FEBAD5&text=%20%20KimGaeul%20%20&width=1000&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=35&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&fontAlign=57&color=FDE88B&text=%20%20KimGaeul%20%20&width=1000&height=200&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=35&descAlignY=50)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
 
@@ -17,7 +17,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="width:20px"> gaury622@gmail.com
 
 ### Stacks 📚
-<div align=center> 
+<div > 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -46,6 +46,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
+<br>
 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&fontAlign=57&color=FEBAD5&text=%20%20thank%20you%20for%20visiting%20%20&height=100&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=cylinder&fontAlign=50&color=FDE88B&text=%20%20thank%20you%20for%20visiting%20%20&height=100&fontSize=20&fontColor=FFFFFF)
