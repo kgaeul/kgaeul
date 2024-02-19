@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&fontAlign=60&color=0:FEE6EE,100:F7F9CC&text=%20%20KimGaeul%20%20&width=1000&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=30&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&fontAlign=57&color=FEBAD5&text=%20%20KimGaeul%20%20&width=1000&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=35&descAlignY=50)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
 
@@ -46,3 +46,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
+
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&fontAlign=57&color=FEBAD5&text=%20%20thank%20you%20for%20visiting%20%20&height=100&fontSize=20)
