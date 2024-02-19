@@ -4,17 +4,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&fontAlign=53&color=FDE88B&text=%20%20KimGaeul%20%20&width=1000&height=200&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=30&descAlignY=50)
 
+늘 도전을 멈추지 않는 개발자 김가을입니다!
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
-
-
-
-### Gaeul's BLOG 📚
-<a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:20px">Gaeul's DevBlog</a>
-
-### Contact 📚
-<img src="https://i.namu.wiki/i/mFNKOpbbejJiDdZ2D23rrqiOZ8EIIDzpayZaU5dp45NIW2KJZna-wFlfh1N0CQ_7lrU1bsUspitFFSTuOByBYw.svg" style="width:20px">gaury0722@naver.com
-<br>
-<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="width:20px"> gaury622@gmail.com
 
 ### Stacks 📚
 <div > 
@@ -46,6 +38,16 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
+
+### Gaeul's BLOG 📚
+<a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:20px">Gaeul's DevBlog</a>
+
+### Contact 📚
+<img src="https://i.namu.wiki/i/mFNKOpbbejJiDdZ2D23rrqiOZ8EIIDzpayZaU5dp45NIW2KJZna-wFlfh1N0CQ_7lrU1bsUspitFFSTuOByBYw.svg" style="width:20px">gaury0722@naver.com
+<br>
+<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="width:20px"> gaury622@gmail.com
+
+
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&fontAlign=50&color=FDE88B&text=%20%20thank%20you%20for%20visiting%20%20&height=100&fontSize=20&fontColor=FFFFFF)
