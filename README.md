@@ -9,10 +9,13 @@
 <img src="https://github.com/kgaeul/kgaeul/assets/143372208/ed77af3e-64d4-4782-94f1-4dcf0d1faf38" style="width:100px">
 늘 도전을 멈추지 않는 개발자 김가을입니다!
 
+<div >
+  
 ### Contact 📚
 <img src="https://i.namu.wiki/i/mFNKOpbbejJiDdZ2D23rrqiOZ8EIIDzpayZaU5dp45NIW2KJZna-wFlfh1N0CQ_7lrU1bsUspitFFSTuOByBYw.svg" style="width:20px">gaury0722@naver.com
 <br>
 <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="width:20px"> gaury622@gmail.com
+</div>
 </div>
 <br>
 
