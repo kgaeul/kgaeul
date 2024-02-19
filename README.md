@@ -39,6 +39,8 @@ Backend
 <img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/jsp&servlet-4398CC?style=for-the-badge&logo=jsp&servlet&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/python-1071D3?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/maven-6DB33F?style=for-the-badge&logo=maven&logoColor=white">
 <br>
 Database
 <br>
