@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
 
 ### Gaeul's BLOG 📚
-<a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:50px">Gaeul's DevBlog</a>
+<a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:10px">Gaeul's DevBlog</a>
 
 ### Stacks 📚
 <div align=center> 
