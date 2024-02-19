@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=FEE6EE&height=300&section=header&text=KimGaeul%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=FEE6EE&height=300&section=header&text=KimGaeul&fontSize=70)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
