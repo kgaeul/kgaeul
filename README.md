@@ -12,6 +12,10 @@
 <div >
   
 ### Contact 📚
+<img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white"> gaury0722@naver.com
+<br>
+<img src="https://img.shields.io/badge/gmail-EE4353?style=for-the-badge&logo=gmail&logoColor=white"> gaury622@gmail.com
+ <br>
 <div> 
  Framework & Library
  <br>
@@ -71,7 +75,7 @@ Environment
 
 
 ### Gaeul's BLOG 📚
-<a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:20px">Gaeul's DevBlog</a>
+<a href="https://autumny.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF4000?style=for-the-badge&logo=tistory&logoColor=white" ></a>
 
 
 
