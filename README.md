@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rect)
+
+![header](https://capsule-render.vercel.app/api?type=Rect&color=FEE6EE&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
