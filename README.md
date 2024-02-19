@@ -1,5 +1,7 @@
 # Welcome ! Gaeul's git 📚
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
+![image](https://github.com/kgaeul/kgaeul/assets/143372208/b26f8626-9ecc-4a6b-a81c-152b3c1ead26)
+
 
 ### Gaeul's BLOG 📚
 <a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:20px">Gaeul's DevBlog</a>
