@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&fontAlign=57&color=FDE88B&text=%20%20KimGaeul%20%20&width=1000&height=200&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=35&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&fontAlign=53&color=FDE88B&text=%20%20KimGaeul%20%20&width=1000&height=200&fontSize=35&textBg=true&desc=Developer&animation=fadeIn&fontColor=FFFFFF&descAlign=30&descAlignY=50)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
 
