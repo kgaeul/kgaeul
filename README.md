@@ -1,10 +1,10 @@
 ### Welcome ! Gaeul's git 📚
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
 
-## Welcome ! Gaeul's BLOG 📚
+## Gaeul's BLOG 📚
 <a href="https://autumny.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white"></a>
 
-## Gaeul's Stacks
+## Stacks 📚
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
