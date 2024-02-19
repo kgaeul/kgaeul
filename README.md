@@ -1,7 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFE6EE&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rect)
 
-<div style="backgraund-color:pink">KimGaeul</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgaeul&theme=dark)
 
