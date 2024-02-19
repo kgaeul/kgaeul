@@ -16,7 +16,6 @@
  Framework & Library
  <br>
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://camo.githubusercontent.com/902ccb67f879a15b0b3b7c6e93f33f073843e0b3674bba9275c91ecaca739aba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f53656375726974792d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d537072696e672d5365637572697479266c6f676f436f6c6f723d7768697465">
 </div>
@@ -24,6 +23,7 @@
  <br>
 Frontend
  <br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,6 +35,7 @@ Backend
 <br>
 <img src="https://img.shields.io/badge/jpa-E34F26?style=for-the-badge&logo=jpa&logoColor=white">
 <img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/jsp&servlet-4398CC?style=for-the-badge&logo=jsp&servlet&logoColor=white">
  <br>
     <br>
 Database
