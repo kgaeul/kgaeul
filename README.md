@@ -6,7 +6,7 @@
 
 <br>
 <div>
-<img src="https://github.com/kgaeul/kgaeul/assets/143372208/ed77af3e-64d4-4782-94f1-4dcf0d1faf38" style="width:120px">
+<img src="https://github.com/kgaeul/kgaeul/assets/143372208/ed77af3e-64d4-4782-94f1-4dcf0d1faf38" style="width:100px">
 늘 도전을 멈추지 않는 개발자 김가을입니다!
 
 ### Contact 📚
