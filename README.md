@@ -4,6 +4,10 @@
 ### Gaeul's BLOG 📚
 <a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:20px">Gaeul's DevBlog</a>
 
+### Contact 📚
+gaury0722@naver.com
+gaury622@gmail.com
+
 ### Stacks 📚
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
