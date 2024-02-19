@@ -5,7 +5,7 @@
 <a href="https://autumny.tistory.com/"><img src="https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014" style="width:20px">Gaeul's DevBlog</a>
 
 ### Contact 📚
-gaury0722@naver.com
+<img src="https://i.namu.wiki/i/qBoKIU2tVXHormFFgnxQQEG6c8UvJOxThRBLkrIfIrJDiKjodGYWhRsBi2_5nCQU0zCFDqoI5RralPOGKXM4LQ.svg">gaury0722@naver.com
 gaury622@gmail.com
 
 ### Stacks 📚
