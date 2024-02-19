@@ -6,7 +6,8 @@
 
 ### Contact 📚
 <img src="https://i.namu.wiki/i/mFNKOpbbejJiDdZ2D23rrqiOZ8EIIDzpayZaU5dp45NIW2KJZna-wFlfh1N0CQ_7lrU1bsUspitFFSTuOByBYw.svg" style="width:20px">gaury0722@naver.com
-gaury622@gmail.com
+<br>
+<img src="https://blog.kakaocdn.net/dn/cisH3A/btqS3IFkLAi/0pw8h8697nmEZIihZ5zkd1/img.jpg"> gaury622@gmail.com
 
 ### Stacks 📚
 <div align=center> 
